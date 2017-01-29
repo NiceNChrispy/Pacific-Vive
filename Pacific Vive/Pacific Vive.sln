@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacific Vive.CSharp", "Pacific Vive.CSharp.csproj", "{07488A9B-866A-1533-9006-19F0BE32F837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacific Vive.CSharp.Editor", "Pacific Vive.CSharp.Editor.csproj", "{C6A267AC-3F68-008F-4B6C-1ADF4B954A6E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{07488A9B-866A-1533-9006-19F0BE32F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07488A9B-866A-1533-9006-19F0BE32F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07488A9B-866A-1533-9006-19F0BE32F837}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C6A267AC-3F68-008F-4B6C-1ADF4B954A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6A267AC-3F68-008F-4B6C-1ADF4B954A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6A267AC-3F68-008F-4B6C-1ADF4B954A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6A267AC-3F68-008F-4B6C-1ADF4B954A6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
